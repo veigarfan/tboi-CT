@@ -1,7 +1,7 @@
 # CT for The Binding of Isaac Rebirth + All DLC :
 **thank u saug**
 **(works if you dont install the 1.9.7.8 update ...... as of 12/21/24. might fix)**
-
+btw if you use this youre actually sooooooooooo lame...............
 ![image](https://github.com/user-attachments/assets/895855f0-c29f-43f7-828a-8c00fa185d98)
 
 
