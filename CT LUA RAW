@@ -55,4 +55,4 @@ btn_inter_attach.Height = 40
 btn_inter_attach.Caption = 'Attach to Isaac'
 btn_inter_attach.onClick = AttachProcess
 
-getMainForm().caption = "nate wuz here.......enjoy yur gam...e.."
+getMainForm().caption = "huh"
