@@ -20,4 +20,5 @@ btw if you use this youre actually sooooooooooo lame...............
 > activate the trainer options by checking boxes or setting values from 0 to 1
 
 ![image](https://github.com/user-attachments/assets/1cf0dfe7-db3b-4a5b-a3ad-3aeb1be2d34b)
+
 "Get Info Mob : is only for one mob and is not recommended to edit, you can use "Freeze Time" for stuck all mob wihout problem.
